@@ -1,4 +1,4 @@
-##How to configure your vim
+##How to configure your vim with python support
 **step 0**: make sure you have git or install by apt-get install git
 
 **step 1**: make sure your version of vim is above 7.3 or apt-get install vim
